@@ -1,0 +1,16 @@
+{
+  "updatedAt": "2026-10-08",
+  "squadron": {"name": "Atlas Galactic", "url": null},
+  "commander": {"name": "Atlas Cruze", "callsign": "Warden", "url": "https://inara.cz/elite/cmdr/400625/"},
+  "system": "Wregoe MD-I c23-18",
+  "cargoCapacity": 1232,
+  "active": [],
+  "completed": [
+    {"id": "ringwatch", "name": "Ringwatch Citadel", "type": "Dodec starport", "location": "Wregoe MD-I c23-18", "economy": "Industrial", "notes": "Atlas HQ. Copper and grey livery. 36 ships available at the shipyard when established."}
+  ],
+  "planned": [
+    {"id": "mining", "name": "Ring mining support", "type": "Mining facility", "priority": "01", "status": "Proposed", "location": "Ringed body · site to be selected", "purpose": "Develop an extraction presence around the rings that brought us here. Choose the facility after reviewing the available slots and market links.", "decision": "Survey hotspots and select the body before placing construction.", "tags": ["Mining", "Extraction", "Site survey"]},
+    {"id": "refinery", "name": "Refinery & surface port", "type": "Refinery hub + large-pad port", "priority": "02", "status": "Proposed", "location": "Rocky / rocky-ice body · subject to survey", "purpose": "Work toward a local refinery market for future construction supplies. A nearby port gives the Panther a place to deliver; the hub supports the economy.", "decision": "Check body traits, available slots, construction points and resulting market links in-game before committing.", "tags": ["Refinery", "Large-pad access", "Supply chain"]},
+    {"id": "expansion", "name": "The next frontier", "type": "Neighbouring-system reconnaissance", "priority": "03", "status": "Scouting", "location": "Wregoe FW-E d11-8 / Wregoe WL-Q b46-3", "purpose": "Scout the next homes for Atlas Galactic while keeping construction hauls close to the supply network.", "decision": "Verify claim availability and inspect bodies before choosing a new system.", "tags": ["Expansion", "Reconnaissance", "Future colony"]}
+  ]
+}
